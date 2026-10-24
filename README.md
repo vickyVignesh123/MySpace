@@ -136,7 +136,7 @@ Development of tailored web solutions to meet specific business requirements.
 
 I'm interested in web development opportunities, business application projects, collaborations, and customized software development.
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **GitHub:** https://github.com/vickyVignesh123
 - **Portfolio:** [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
 - **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
 - **LinkedIn:** [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
