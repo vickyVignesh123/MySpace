@@ -137,9 +137,9 @@ Development of tailored web solutions to meet specific business requirements.
 I'm interested in web development opportunities, business application projects, collaborations, and customized software development.
 
 - **GitHub:** https://github.com/vickyVignesh123
-- **Portfolio:** [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
-- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- **LinkedIn:** [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- **Portfolio:** 
+- **Email:** mailto:mfvat.vicky@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vignesh-alagarsamy-670058136/
 
 ---
 
